@@ -1,8 +1,8 @@
-# javaStuffz
+# codeStuffz
 A repo for any prog-language codes and stuff
 
 # Info
 
-Feel free to edit all the codes.
+Feel free to edit any of the codes.
 
 Enjoy
