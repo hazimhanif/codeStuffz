@@ -1,5 +1,5 @@
 # javaStuffz
-A repo for any java-based codes and stuff
+A repo for any prog-language codes and stuff
 
 # Info
 
